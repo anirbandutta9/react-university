@@ -1,5 +1,4 @@
 module.exports = {
 
-    databaseURL: process.env.DATABASE_URL || "$DATABASE_URL"
-
+    databaseURL: process.env.DATABASE_URL
 };
