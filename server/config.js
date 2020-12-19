@@ -1,5 +1,5 @@
 module.exports = {
 
-    databaseURL: ${university.DATABASE_URL}
+    databaseURL: $DATABASE_URL
 
 };
