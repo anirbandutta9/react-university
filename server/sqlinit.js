@@ -3,6 +3,7 @@
 let fs = require('fs'),
     path = require('path'),
     db = require('./pghelper');
+    ssl: true
 
 let filePath = path.join(__dirname, '../init.sql');
 
